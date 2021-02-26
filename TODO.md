@@ -1,2 +1,1 @@
- * `backup` parameter
- * `upstream` under `stream` context
+ * add a new sever config in `upstream` 
